@@ -1,6 +1,6 @@
 {
   "name": "@terradharitri/sdk-passkey-provider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Signing provider for dApps: Passkey Provider",
   "main": "out/index.js",
   "types": "out/index.d.js",
